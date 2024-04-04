@@ -1,5 +1,5 @@
 # VISUAL NOVEL ENGINE 📖
-Code for a serverless solution for creating visual novels in the web using vanilla javascript!
+Code for a serverless engine for creating visual novels in the web using vanilla javascript!
 
 ❗IMPLEMENTS:
 
